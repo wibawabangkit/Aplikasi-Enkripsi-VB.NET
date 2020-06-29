@@ -1,0 +1,13 @@
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\obj\Debug\Enkripsi.vbprojAssemblyReference.cache
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\obj\Debug\Enkripsi.Resources.resources
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\obj\Debug\Enkripsi.vbproj.GenerateResource.cache
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\bin\Debug\Enkripsi File.exe.config
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\bin\Debug\Enkripsi File.exe
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\bin\Debug\Enkripsi File.pdb
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\bin\Debug\Enkripsi File.xml
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\obj\Debug\Enkripsi File.exe
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\obj\Debug\Enkripsi File.xml
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\obj\Debug\Enkripsi File.pdb
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\obj\Debug\Enkripsi.EnkripsiFile.resources
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\obj\Debug\Enkripsi.Caesar.resources
+C:\Users\WIBAWA BANGKIT\source\repos\Enkripsi\Enkripsi\obj\Debug\Enkripsi.Menu.resources
